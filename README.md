@@ -1,5 +1,6 @@
 # Currency Converter School Project
 This is a Currency Converter written in Python using [fawazahmed0's exchange API](https://github.com/fawazahmed0/exchange-api) for Gr. 12 Computer Science.
+Exchange rates are updated daily.
 
 ## REQUIREMENTS
 - Python3
